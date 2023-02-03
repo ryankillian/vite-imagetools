@@ -56,7 +56,7 @@
 			</ul>
 			<ul>
 				<li>
-					<a href="/light" on:click|preventDefault={toggleDarkMode}
+					<a href="/" on:click|preventDefault={toggleDarkMode}
 						><iconify-icon icon="mdi:yin-yang" /></a
 					>
 				</li>

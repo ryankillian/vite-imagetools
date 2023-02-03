@@ -41,8 +41,15 @@
 	<a href="/book/01" role="button" class="outline">Book 24</a>
 </div>
 
+<article>
+	<i>Please Note: Only books 1 and 2 currently implemented. More books to be added soon.</i>
+</article>
+
 <style>
 	a {
 		margin: 0.4em;
+	}
+	article {
+		text-align: center;
 	}
 </style>
